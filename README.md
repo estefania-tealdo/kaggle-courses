@@ -39,17 +39,19 @@ Write queries to run faster and use less data.
 
 ## Feature Engineering
 
-1. [Baseline Model](feature_engineering/01-baseline-model.ipynb)   
+1. [Creating Features](feature_engineering/01-creating-features.ipynb)   
 Building a baseline model as a starting point for feature engineering.
 
-2. [Categorical Encodings](feature_engineering/02-categorical-encodings.ipynb)  
+2. [Clustering with k-means](feature_engineering/02-clutering-with-k-means.ipynb)  
 There are many ways to encode categorical data for modeling. Some are pretty clever.
 
-3. [Feature Generation](feature_engineering/03-feature-generation.ipynb)    
+3. [Principal Component Analysis (PCA9](feature_engineering/03-principal-component-analysis.ipynb)    
 The frequently useful case where you can combine data from multiple rows into useful features.
 
-4. [Feature Selection](feature_engineering/04-feature-selection.ipynb)  
+4. [Target Encoding](feature_engineering/04-target-encoding.ipynb)  
 You can make a lot of features. Here's how to get the best set of features for your model.
+
+5. [House Prices - Advanced Regression](feature_engineering/05-feature-engineering-for-house-prices.ipynb)
 
 
 ## Intermediate Machine Learning
