@@ -1,24 +1,22 @@
-# Content
+## Intermediate Machine Learning
 
-## Intro to Machine Learning
+1. [Introduction](intermediate_machine_learning/01-introduction.ipynb)   
+Review what you need for this Micro-Course.
 
-1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
-The first step if you're new to machine learning.
+2. [Missing Values](intermediate_machine_learning/02-missing-values.ipynb)  
+Missing values happen. Be prepared for this common challenge in real datasets.
 
-2. [Basic Data Exploration](intro_to_machine_learning/02-explore-your-data.ipynb)  
-Load and understand your data.
+3. [Categorical Variables](intermediate_machine_learning/03-categorical-variables.ipynb)   
+There's a lot of non-numeric data out there. Here's how to use it for machine learning.
 
-3. [Your First Machine Learning Model](intro_to_machine_learning/03-your-first-machine-learning-model.ipynb)   
-Building your first model. Hurray!
+4. [Pipelines](intermediate_machine_learning/04-pipelines.ipynb)  
+A critical skill for deploying (and even testing) complex models with pre-processing.
 
-4. [Model Validation](intro_to_machine_learning/04-model-validation.ipynb)  
-Measure the performance of your model ? so you can test and compare alternatives.
+5. [Cross-Validation](intermediate_machine_learning/05-cross-validation.ipynb)  
+A better way to test your models.
 
-1. [Underfitting and Overfitting](intro_to_machine_learning/05-underfitting-and-overfitting.ipynb)  
-Fine-tune your model for better performance.
+6. [XGBoost](intermediate_machine_learning/06-xgboost.ipynb)  
+The most accurate modeling technique for structured data.
 
-6. [Random Forests](intro_to_machine_learning/06-random-forests.ipynb)  
-Using a more sophisticated machine learning algorithm.
-
-7. [Exercise: Machine Learning Competitions](intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
-Enter the world of machine learning competitions to keep improving and see your progress.
+7. [Data Leakage](intermediate_machine_learning/07-data-leakage.ipynb)  
+Find and fix this problem that ruins your model in subtle ways.
